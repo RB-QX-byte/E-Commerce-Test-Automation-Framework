@@ -1,4 +1,4 @@
-# Ecommerce Automation TestNG
+# E-Commerce Test Automation Framework
 
 ### This is a complete project where an [E-commerce site](http://automationpractice.com/) site is automated by writing test suites using selenium-webdriver and TestNg as testing framework
 
